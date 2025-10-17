@@ -1,5 +1,11 @@
 hii
 
+<<<<<<< HEAD
 from branch b2
 
 from main
+=======
+from branch b2
+>>>>>>> b2
+
+line from demo
