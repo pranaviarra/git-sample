@@ -9,3 +9,4 @@ from branch b2
 >>>>>>> b2
 
 line from demo
+line from github
